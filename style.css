@@ -1,0 +1,216 @@
+    body{
+        min-height: 10px;
+    }
+    #navTitle{
+        margin-top: 5px;
+    }
+    #navLogoR{
+        min-height: 60px;
+        background-color: #091540;
+        position: sticky;
+        top: 0px;
+        z-index: 6;
+        box-shadow: 10px 10px 10px grey;
+    }
+    .navbar{
+        color: white;;
+    }
+    .navLogo{
+        font-family: 'Merienda One', cursive;
+        min-height: 50px;
+    }
+    .nav-link{
+        color: black;
+    }
+    .navLogos{ 
+        border: none;
+        color: white;
+    }
+    ul.li{
+        color: black;
+        border: none;
+    }
+    .rows{
+        margin-top: 20px;
+        background-image: url(images/0004.jpg);
+        background-attachment: fixed;
+        background-size: 100% 100%;
+    }
+    .rowColor{
+        min-height: 400px;
+        background-color: rgba(0,0,0,0.7);
+    }
+    .welcomeText{
+        text-align: center;
+        color: white;
+        padding-top: 20px;
+        font-size: 60px;
+        font-family: 'Merienda One', cursive;
+        font-style: italic;
+    }
+    #welcomeText{
+        text-align: center;
+        color: white;
+        padding-top: 20px;
+        font-size: 40px;
+        font-family: 'Comic Neue', cursive;
+    }
+    .orderes{
+        border: none;
+        color: black;
+    }
+    .order{
+        min-height: 100px;
+    }
+    .orders{
+        text-align: center;
+        font-size: 35px;
+        color:white;
+        font-style: italic;
+        font-family: 'Comic Neue', cursive;
+    }
+    .footer{
+        min-height: 10px;
+        margin-top: 5px;
+        font-family: 'Comic Neue', cursive;
+        background-color: #091540;
+        color: white;
+        text-align: center;
+    }
+    #testiRow{
+        min-height: 40px;
+        margin-top: 20px;
+    }
+    #testiHeader{
+        text-align: center;
+        font-family: 'Merienda', cursive;
+        color: #3A435E;
+    }
+    .testiHeader{
+        text-align: center;
+        font-family: 'Merienda', cursive;
+        color: #3A435E;
+    }
+    .testiDiv{
+        min-height: 90px;
+        text-align: center;
+        padding: 10px;
+        border-radius: 5px;
+        box-shadow: 5px 5px 5px grey ;
+    }
+    #stcVid{
+        min-height: 500px;
+        margin-top: 20px;
+    }
+    .aboutpic{
+        min-height: 400px;
+        background-image: url(images/0027.jpg);
+        background-attachment: fixed;
+        background-size: 100% 100%;
+    }
+    .tests{
+        margin-top: 20px;
+    }
+    .vision{
+        background-color: rgba(0,0,0,0.7);
+    }
+    .visions{
+        margin-top: 30px;
+        text-align: center;
+        color: white;
+        font-family: 'Merienda', cursive;
+    }
+    .visionText{
+        font-size: 20px;
+        text-align: center;
+        font-family: 'Merienda', cursive;
+        color: white;
+    }
+    .featureImg{
+        min-height: 400px;
+        margin-top: 20px;
+        position: fixed;
+        box-shadow: 5px 5px 5px grey;
+        border-radius: 10px;
+    }
+    .featureNews{
+        text-align: center;
+        color: black;
+        font-family: 'Comic Neue', cursive;
+        font-size: 20px;
+        padding: 5px;
+    }
+    .featureN{
+        margin-top: 20px;
+    }
+    #rowOrder{
+        min-height: 730px;
+        background-image: url(images/0026.jpg);
+        background-size: 100% 100%;
+    }
+    .orderban{
+        background-color: rgba(0,0,0,0.7);
+    }
+    .contact{
+        text-align: center;
+        font-family: 'Comic Neue', cursive;
+    }
+    .formsss{
+        text-align: center;
+        min-height: 520px;
+        margin-top: 20px;
+    }
+    #networkForm{
+        display: none;
+    }
+    .marquee{
+        font-style: italic;
+        font-family: 'Comic Neue', cursive;
+        color: white;
+    }
+    #rowEnquiry{
+        min-height: 730px;
+        background-image: url(images/0015.jpg);
+        background-size: 100% 100%;
+    }
+    .enquiry{
+        min-height: 10px;
+        background-color: rgba(0,0,0,0.7);
+    }
+    .boss{
+        background-color: rgb(212, 212, 216);
+        margin-top: 10px;
+        min-height: 720px;
+    }
+    .portMenu{
+        min-height: 50px;
+    }
+    .portDetails{
+        min-height: 50px;
+    }
+    .tablesPor{
+        margin-top: 5px;
+        min-height: 100px;
+    }
+    .priv{
+        color: white;
+        font-family: 'Merienda One', cursive;
+    }
+    #enquiryTable{
+        display: none;
+    }
+    #testimoinials{
+        display: none;
+    }
+    #customerTable{
+        display: none;
+    }
+    #enquiryTableCus{
+        display: none;
+    }
+    .btnss.hover{
+        border: none;
+        color: white;
+    }
+    
+
